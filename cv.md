@@ -56,3 +56,8 @@
 - Computer maintenance
 - Equipment setup
 - User support
+
+### English Level
+- **Reading:** A2 (Pre-Intermediate)
+- **Writing:** A2 (Pre-Intermediate) 
+- **Speaking:** A1 (Beginner)
